@@ -1,0 +1,37 @@
+
+
+create database features;
+
+use features;
+
+
+create table words(
+word varchar(50),
+tag varchar(50),
+pcount int(5),
+ncount int(5),
+PwordPos float,
+PwordNeg float);
+
+create table messageboard_words(
+word varchar(50),
+tag varchar(50),
+pcount int(5),
+ncount int(5),
+PwordPos float,
+PwordNeg float);
+
+create table twitter_words(
+word varchar(50),
+tag varchar(50),
+pcount int(5),
+ncount int(5),
+PwordPos float,
+PwordNeg float);
+
+
+create table count(
+type varchar(50),
+positive int(5),
+negative int(5));
+

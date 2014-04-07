@@ -1,0 +1,23 @@
+Despite/IN decent/JJ results/NNS ,/, ACC/NNP 's/POS stock/NN falls/VBZ on/IN uncertain/JJ outlook/NN MINT/NNP First/NNP Published/VBD :/: Thu/NNP ,/, Apr/NNP 19/CD 2012/CD ./.
+10/CD 41/CD PM/NNP IST/NNP StockQuote/NNP D/NNP 1247.6/CD 1240.00/CD Holcim/NNP Group/NNP 's/POS cement/NN company/NN ACC/NNP Ltd/NNP posted/VBD a/DT decent/JJ performance/NN for/IN the/DT March/NNP quarter/NN ,/, especially/RB against/IN a/DT backdrop/NN of/IN an/DT economic/JJ slowdown/NN and/CC a/DT spate/NN of/IN cost/NN increases/NNS ./.
+
+Stand-alone/JJ revenue/NN rose/VBD by/IN 19.3/CD %/NN to/TO Rs/VB 2,860.2/CD crore/NN from/IN a/DT year/NN earlier/RBR ./.
+This/DT was/VBD 14.3/CD %/NN higher/JJR even/RB when/WRB compared/VBN with/IN the/DT preceding/JJ December/NNP quarter/NN ./.
+The/DT increase/NN in/IN revenue/NN was/VBD a/DT combination/NN of/IN higher/JJR sales/NNS despatches/NNS ,/, quite/RB typical/JJ of/IN the/DT March/NNP quarter/NN ,/, and/CC stable/JJ cement/NN prices/NNS for/IN the/DT last/JJ six/CD months/NNS ./.
+Consequently/RB ,/, realizations/NNS per/IN tonne/NN at/IN Rs/NNP 4,256/CD were/VBD 9.3/CD %/NN higher/JJR than/IN a/DT year/NN ago/RB and/CC about/RB 1.3/CD %/NN higher/JJR than/IN the/DT December/NNP quarter/NN ./.
+But/CC costs/NNS rose/VBD ,/, too/RB ,/, as/IN power/NN and/CC railway/NN freight/NN charges/NNS saw/VBD sharp/JJ increases/NNS during/IN the/DT quarter/NN from/IN a/DT year/NN earlier/RBR ./.
+For/IN example/NN ,/, power/NN cost/NN as/IN a/DT percentage/NN of/IN sales/NNS moved/VBD up/RB from/IN 20/CD %/NN to/TO 23.6/CD %/NN ./.
+Freight/NN cost/NN rose/VBD ,/, too/RB ,/, although/IN the/DT company/NN managed/VBD to/TO contain/VB employee/NN cost/NN and/CC other/JJ expenditure/NN ./.
+Increased/VBN cost/NN pressure/NN took/VBD a/DT toll/NN on/IN profitability/NN and/CC ACC/NNP 's/POS operating/NN margin/NN dropped/VBD by/IN 160/CD basis/NN points/NNS to/TO 22.5/CD %/NN ./.
+Operating/NN profit/NN for/IN the/DT quarter/NN rose/VBD by/IN around/IN 11.2/CD %/NN to/TO Rs/VB 644.9/CD crore/NN from/IN a/DT year/NN earlier/RBR ,/, in/IN spite/NN of/IN better/JJR revenue/NN growth/NN ./.
+During/IN the/DT quarter/NN ,/, the/DT pan-India/JJ cement/NN company/NN stated/VBD that/IN it/PRP would/MD adopt/VB the/DT ``/`` written-down-value/JJ ''/'' method/NN of/IN depreciation/NN ,/, as/IN opposed/VBN to/TO the/DT ``/`` straight-line/JJ ''/'' method/NN ,/, for/IN its/PRP$ captive/JJ power/NN plants/NNS ./.
+Adjusting/VBG for/IN this/DT change/NN ,/, net/JJ profit/NN would/MD be/VB Rs/FW 383/FW crore/FW ,/, instead/RB of/IN the/DT reported/JJ net/JJ profit/NN of/IN Rs/NNP 152/CD crore/NN during/IN the/DT quarter/NN ./.
+Indeed/RB ,/, higher/JJR demand/NN and/CC firm/JJ cement/NN prices/NNS during/IN the/DT March/NNP quarter/NN ,/, in/IN addition/NN to/TO ACC/NNP 's/POS ability/NN to/TO pass/VB on/IN some/DT cost/NN pressures/NNS ,/, were/VBD what/WP held/VBD out/RP the/DT company/NN 's/POS performance/NN ./.
+But/CC the/DT Street/NN was/VBD far/RB from/IN enthused/VBN by/IN these/DT results/NNS in/IN trying/VBG times/NNS ./.
+The/DT stock/NN fell/VBD by/IN 3.9/CD %/NN to/TO Rs/NNP 1,246/CD on/IN BSE/NNP ,/, on/IN a/DT day/NN when/WRB the/DT benchmark/NN indices/NNS saw/VBD some/DT gains/NNS ./.
+This/DT could/MD be/VB because/IN cement/NN stocks/NNS had/VBD already/RB run-up/NN a/DT great/JJ deal/NN since/IN January/NNP ./.
+Besides/IN ,/, there/EX is/VBZ scepticism/NN regarding/VBG the/DT stability/NN of/IN cement/NN prices/NNS ,/, as/IN reports/NNS indicate/VBP that/IN prices/NNS in/IN northern/JJ India/NNP have/VBP already/RB shown/VBN signs/NNS of/IN softening/NN ./.
+The/DT onset/NN of/IN monsoon/NN would/MD lead/VB to/TO a/DT drop/NN in/IN cement/NN prices/NNS in/IN the/DT western/JJ region/NN ,/, too/RB ./.
+``/`` Recent/JJ cost/NN increase/NN such/JJ as/IN railway/NN freight/NN hike/NN of/IN 23/CD %/NN -LRB-/-LRB- effected/VBN on/IN 6/CD March/NNP -RRB-/-RRB- and/CC excise/VB duty/NN hike/NN -LRB-/-LRB- increased/VBN on/IN 16/CD March/NNP -RRB-/-RRB- to/TO reflect/VB in/IN the/DT current/JJ quarter/NN -LRB-/-LRB- June/NNP quarter/NN -RRB-/-RRB- ,/, ''/'' according/VBG to/TO a/DT note/NN by/IN Emkay/NNP Global/NNP Financial/NNP Services/NNPS Ltd./NNP ./.
+Uncertainty/NN on/IN whether/IN the/DT realization/NN going/VBG forward/RB would/MD offset/VB cost/NN pressures/NNS is/VBZ likely/JJ to/TO limit/VB any/DT upside/NN for/IN the/DT stock/NN ./.
+Another/DT concern/NN among/IN investors/NNS is/VBZ whether/IN the/DT long-awaited/JJ report/NN on/IN cartelization/NN of/IN the/DT industry/NN by/IN the/DT Competition/NNP Commission/NNP of/IN India/NNP would/MD affect/VB cement/NN prices/NNS ./.

@@ -1,0 +1,4 @@
+104.55 104.6||Will you buy Power Grid?
+105.65 105.2||BUY Powergrid 105 Trgt 107 Sl 103.5
+105.7 105.2||Intraday call Power Grid Buy Target 108 Stop loss 102.5
+105 105.7||Very high chance of getting it around 98-100 level

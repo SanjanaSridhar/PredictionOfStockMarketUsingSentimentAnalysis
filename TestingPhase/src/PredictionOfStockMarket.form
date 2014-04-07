@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="190" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" pref="311" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="211" max="-2" attributes="0"/>
+                      <Component id="Result" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="79" max="-2" attributes="0"/>
+                      <Component id="Feedback" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="97" max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" pref="502" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="107" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="14" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" min="-2" pref="328" max="-2" attributes="0"/>
+              <EmptySpace pref="41" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Result" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Feedback" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="Result">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Result"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ResultActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="Results">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="7" rowCount="50">
+                <Column editable="true" title="Company Name" type="java.lang.String">
+                  <Data value="ACC Ltd."/>
+                  <Data value="Ambuja Cements Ltd."/>
+                  <Data value="Asian Paints"/>
+                  <Data value="Axis Bank"/>
+                  <Data value="Bajaj Auto"/>
+                  <Data value="Bank of Baroda"/>
+                  <Data value="BHEL"/>
+                  <Data value="Bharat Petroleum Corporation"/>
+                  <Data value="Bharti Airtel"/>
+                  <Data value="Cairn Bharat"/>
+                  <Data value="Cipla Ltd."/>
+                  <Data value="Coal India"/>
+                  <Data value="DLF Ltd."/>
+                  <Data value="Dr.Reddy&apos;s Lab"/>
+                  <Data value="GAIL Ltd."/>
+                  <Data value="Grasim Industries"/>
+                  <Data value="HCL Technologies"/>
+                  <Data value="HDFC Bank Ltd."/>
+                  <Data value="Hero MotoCorp "/>
+                  <Data value="Hindalco Industries"/>
+                  <Data value="Hindustan Unilever"/>
+                  <Data value="HDFC"/>
+                  <Data value="ICICI Bank"/>
+                  <Data value="IDFC"/>
+                  <Data value="Infosys Technologies"/>
+                  <Data value="ITC Ltd."/>
+                  <Data value="Jaiprakash Associates"/>
+                  <Data value="Jindal Steel and Power"/>
+                  <Data value="Kotak Mahindra Bank"/>
+                  <Data value="Larsen &amp; Toubro Ltd."/>
+                  <Data value="Lupin Ltd."/>
+                  <Data value="Mahindra &amp; Mahindra Ltd."/>
+                  <Data value="Maruti Suzuki"/>
+                  <Data value="NTPC Ltd."/>
+                  <Data value="Oil &amp; Natural Gas Corporation"/>
+                  <Data value="Power Grid Corporation"/>
+                  <Data value="Punjab National Bank"/>
+                  <Data value="Ranbaxy Laboratories"/>
+                  <Data value="Reliance Industries"/>
+                  <Data value="Reliance Infrastructure"/>
+                  <Data value="Sesa Goa Ltd"/>
+                  <Data value="Siemens Ltd."/>
+                  <Data value="State Bank of India"/>
+                  <Data value="Sun Pharmaceutical Industries"/>
+                  <Data value="Tata Motors Ltd."/>
+                  <Data value="Tata Power Co. Ltd."/>
+                  <Data value="Tata Steel Ltd."/>
+                  <Data value="Tata Consultancy Services"/>
+                  <Data value="Ultratech Cement Ltd."/>
+                  <Data value="Wipro Ltd."/>
+                </Column>
+                <Column editable="false" title="Article Sentiment" type="java.lang.String"/>
+                <Column editable="false" title="Tweet Sentiment" type="java.lang.String"/>
+                <Column editable="false" title="Message Board Sentiment" type="java.lang.String"/>
+                <Column editable="true" title="Combined Sentiment" type="java.lang.String"/>
+                <Column editable="false" title="Time" type="java.lang.String"/>
+                <Column editable="false" title="Stock Price" type="java.lang.String"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Britannic Bold" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="PREDICTION OF THE STOCK MARKET"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Feedback">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Feedback"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FeedbackActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
